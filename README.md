@@ -24,3 +24,6 @@
 Целевой признак
 
     * Exited — факт ухода клиента
+
+
+https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling
